@@ -2,3 +2,6 @@ theme: jekyll-theme-architect
 title: Lionel's quick GH tests
 description: This is a test to see if this would be suitable for me
 show_downloads: true
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
