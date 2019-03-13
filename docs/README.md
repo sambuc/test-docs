@@ -1,7 +1,6 @@
 # Main Documentation README
 
-## Table of Content
-
+* Table of Content
 {:toc}
 
 
