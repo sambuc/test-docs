@@ -6,9 +6,6 @@ permalink: /chapter-4
 # Chapter 4
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
 1. TOC
 {:toc}
 
