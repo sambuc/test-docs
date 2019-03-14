@@ -1,5 +1,7 @@
 title: Lionel's quick GH tests
 description: This is a test to see if this would be suitable for me
+# Enable or disable the site search
+search_enabled: true
 #url: "https://sambuc.github.io/test-docs"
 #show_downloads: true
 #github:
