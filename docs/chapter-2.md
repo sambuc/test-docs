@@ -1,7 +1,7 @@
 ---
 nav_order: 3
 ---
-# Section 1
+# Chapter 2
 {: .no_toc }
 
 ## Table of contents
