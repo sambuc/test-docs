@@ -7,3 +7,4 @@ github:
   zip_url: http://example.com/download.zip
   another_url: another value
 #theme: jekyll-theme-architect
+theme: jekyll-theme-architect
