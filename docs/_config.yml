@@ -6,11 +6,11 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-    "DIAS":
-      - "https//dias.epfl.ch/"
-    "Twitter":
-      - "https://twitter.com/dias_EPFL"
-    "GitHub":
-      - "https//github.com/epfl-dias/project"
+  "DIAS":
+    - "https://dias.epfl.ch/"
+  "Twitter":
+    - "https://twitter.com/dias_EPFL"
+  "GitHub":
+    - "https://github.com/epfl-dias/project"
 
 remote_theme: pmarsceill/just-the-docs
