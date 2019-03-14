@@ -1,4 +1,7 @@
-# A Page
+---
+nav_order: 2
+---
+# Section 2
 {: .no_toc }
 
 ## Table of contents
