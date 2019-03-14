@@ -1,10 +1,13 @@
 title: Lionel's quick GH tests
 description: This is a test to see if this would be suitable for me
+url: "https://sambuc.github.io/test-docs"
 show_downloads: true
-plugins:
-  - jekyll-sitemap
 github:
   zip_url: http://example.com/download.zip
   another_url: another value
 #theme: jekyll-theme-architect
-theme: jekyll-theme-architect
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
+remote_theme: alexander-heimbuch/millidocs
