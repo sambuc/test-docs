@@ -11,6 +11,6 @@ aux_links:
   "Twitter":
     - "https://twitter.com/dias_EPFL"
   "GitHub":
-    - "https://github.com/epfl-dias/project"
+    - "https://github.com/epfl-dias/PROJECT_NAME"
 
 remote_theme: pmarsceill/just-the-docs
