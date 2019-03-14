@@ -1,4 +1,12 @@
-# Home
+---
+layout: default
+title: Section 2
+nav_order: 3
+parent: Sub Chapter 1
+grandparent: Chapter 2
+permalink: /docs/chapter-2
+---
+# A Page
 {: .no_toc }
 
 ## Table of contents

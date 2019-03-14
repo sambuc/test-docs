@@ -1,4 +1,11 @@
-# Home
+---
+layout: default
+title: Sub Chapter 1
+nav_order: 3
+has_children: true
+parent: Chapter 2
+---
+# A Page
 {: .no_toc }
 
 ## Table of contents

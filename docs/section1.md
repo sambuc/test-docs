@@ -1,4 +1,4 @@
-# Home
+# A Page
 {: .no_toc }
 
 ## Table of contents

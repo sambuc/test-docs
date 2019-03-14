@@ -1,4 +1,11 @@
-# Home
+---
+layout: default
+title: Chapter 2
+nav_order: 3
+has_children: true
+permalink: /docs/chapter-2
+---
+# A Page
 {: .no_toc }
 
 ## Table of contents

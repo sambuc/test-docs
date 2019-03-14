@@ -1,4 +1,10 @@
-# Home
+---
+layout: default
+title: Section 1
+nav_order: 2
+parent: Chapter 1
+---
+# A Page
 {: .no_toc }
 
 ## Table of contents
