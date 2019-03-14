@@ -1,6 +1,6 @@
 ---
 nav_order: 2
-parent: Chapter 2
+parent: Chapter 4
 ---
 # Section 2
 {: .no_toc }
