@@ -1,10 +1,8 @@
 ---
-layout: default
-title: Section 2
-nav_order: 3
+nav_order: 2
 parent: Chapter 1
 ---
-# A Page
+# Section 2
 {: .no_toc }
 
 ## Table of contents

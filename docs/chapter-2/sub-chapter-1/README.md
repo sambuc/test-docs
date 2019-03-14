@@ -1,10 +1,10 @@
 ---
-layout: default
-title: Section 1
-nav_order: 2
-parent: Chapter 1
+nav_order: 3
+has_children: true
+parent: Chapter 2
+permalink: /chapter-2/sub-chapter-1
 ---
-# A Page
+# Sub Chapter 1
 {: .no_toc }
 
 ## Table of contents

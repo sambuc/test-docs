@@ -1,6 +1,6 @@
 ---
 nav_order: 1
-permalink: /docs
+permalink: /
 ---
 # Home
 {: .no_toc }
