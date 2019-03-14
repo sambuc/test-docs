@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Section 1
-nav_order: 2
+nav_order: 1
 parent: Sub Chapter 1
 grandparent: Chapter 2
 ---
